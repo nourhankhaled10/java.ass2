@@ -1,0 +1,18 @@
+
+body {
+    background-color: #EAECCC;
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+    color: #CD8D7A;
+}
+h3{
+    color: #CD8D7A;
+}
+button{
+  background-color: #DBCC95;
+}
+button:hover{
+    background-color: #C3E2C2;
+}
